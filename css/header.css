@@ -1,0 +1,14 @@
+.header__welcome {
+    padding: 0 5px;
+    text-align: center;
+}
+
+.header__buttonWrapper {
+    margin-top: 3px;
+    text-align: center;
+}
+
+.header__button {
+    padding: 10px 20px;
+    font-weight: 700;
+}

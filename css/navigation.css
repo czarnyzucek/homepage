@@ -1,0 +1,33 @@
+.navigation {
+    width: 100%;
+    text-align: center;
+}
+
+.navigation__list {
+    padding: 0;
+}
+
+.navigation__listItem {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.navigation_link {
+    text-decoration: none;
+    text-transform: uppercase;
+    line-height: 2.5;
+    color: azure;
+    padding: 8px 10px;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+}
+
+.navigation_link:hover {
+    background-color: hsl(0, 0%, 90%);
+    color: black;
+}
+
+.navigation_link:active {
+    background-color: hsl(0, 0%, 100%);
+    color: black;
+}

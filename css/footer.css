@@ -1,0 +1,15 @@
+.footer {
+    padding: 3px;
+    background-color: #fff;
+    color: black;
+    text-align: center;
+}
+
+.footer__text {
+    text-align: center;
+}
+
+.footer__contact {
+    text-decoration: none;
+    line-height: 2;
+}
